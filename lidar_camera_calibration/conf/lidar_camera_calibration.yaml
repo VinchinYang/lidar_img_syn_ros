@@ -1,0 +1,4 @@
+﻿lidar_camera_calibration:
+  camera_frame_topic: /camera/image_raw
+  camera_info_topic: /webcam/camera_info
+  velodyne_topic: /pandar_points
